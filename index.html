@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>let's play</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+<div class="container">
+    <section id="game-set">
+        <div id="board_size">
+            <form>
+                Board size X<input id="x_size" type="number" name="size_x"><br>
+                Board size Y<input id="y_size" type="number" name="size_y"><br>
+                <span>(Number of gliders X Y)</span>
+                <input id="draw_table" type="submit" value="Draw board">
+            </form>
+        </div>
+        <div id="game_state">
+            <button id="play" disabled>Start</button>
+            <button id="pause" disabled>Pause</button>
+        </div>
+    </section>
+    <section id="board">
+    </section>
+</div>
+<script src="js/app.js"></script>
+</body>
+
+</html>
