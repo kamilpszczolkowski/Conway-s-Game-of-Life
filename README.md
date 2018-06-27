@@ -10,7 +10,7 @@ I created this application to practice skills of object oriented programming and
 focus mostly on optimisation - rather on creating and managing objects in my code.
 
 Application is written in JavaScript. Css code is compiled from sass files by Gulp packages. I used also Gulp to
-create localhost server, which allowed mi to se the differences after saving the files.
+create localhost server, which allowed mi to see the differences instantly after saving the files.
 
 # Description
 
