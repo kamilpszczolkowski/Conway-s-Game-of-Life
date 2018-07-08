@@ -58,7 +58,7 @@ function Game() {
         this.id = setInterval(function () {
             self.makeEvolution()
         }, 300);
-    }
+    };
     this.makeEvolution = function () {
         this.nextStepTable = [];
         for (var i = 0; i < this.allCells.length; i++) {

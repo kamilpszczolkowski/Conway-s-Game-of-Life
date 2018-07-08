@@ -9,7 +9,7 @@ https://kamilpszczolkowski.github.io/Game-of-Life/
 I created this application to practice skills of object oriented programming and general JavaScript programming. I didn't
 focus mostly on optimisation - rather on creating and managing objects in my code.
 
-Application is written in JavaScript. Css code is compiled from sass files by Gulp packages. I used also Gulp to
+Application is written in JavaScript. Scss file is compiled to css code by Gulp-sass package. I used also Gulp to
 create localhost server, which allowed mi to see the differences instantly after saving the files.
 
 # Description
